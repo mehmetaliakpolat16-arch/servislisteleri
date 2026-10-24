@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://servislisteleri.com.tr/sitemap.xml
